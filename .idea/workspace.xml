@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a636226e-e291-408f-9e43-7ae6c318b99f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/master_petzooislam.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/master_petzooislam.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4" beforeDir="false" afterPath="$PROJECT_DIR$/hw4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hw4/.github/workflows/master_petzooislam.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/.github/workflows/master_petzooislam.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hw4/api/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/api/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hw4/api/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/api/forms.py" afterDir="false" />
@@ -63,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616247160949</updated>
-      <workItem from="1616247162024" duration="6393000" />
+      <workItem from="1616247162024" duration="6909000" />
     </task>
     <servers />
   </component>
